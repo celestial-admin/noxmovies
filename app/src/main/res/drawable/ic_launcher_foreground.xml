@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Geometric NOX Monogram / Cinema Play Shape -->
+        <!-- Left vertical bar of N -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,32h8v44h-8z" />
+        <!-- Diagonal of N into play chevron -->
+        <path
+            android:fillColor="#CCFF00"
+            android:pathData="M38,32l24,30l-6,6l-24,-30z" />
+        <!-- Right vertical bar of N / Play arrow apex -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M68,32h8v44h-8z" />
+        <!-- Play triangular accent -->
+        <path
+            android:fillColor="#CCFF00"
+            android:pathData="M52,50L62,56L52,62Z" />
+    </group>
+</vector>

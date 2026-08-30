@@ -1,0 +1,6 @@
+{
+  "name": "NOX Movies",
+  "description": "Premium, minimal, cinematic Android media discovery and playback application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
